@@ -1,0 +1,10 @@
+Java三大结构
+1.顺序结构
+2.分之结构
+	2.1 if else
+	2.2 switch case
+3.循环结构
+	3.1 while
+	3.2 do while
+	3.3 for
+4.特殊情况
